@@ -8,7 +8,7 @@
 This project is a challenge developed for Rocketseat Expansion Week, the challenge is to create a landing page about a soft skill that the challenged considers important and essential.
 
 <h2>🚀 Project Status<a name="project_status"></a></h2>
-⚠️ Completed in desktop version, missing mobile version.
+⚠️ Completed in desktop version, missing mobile responsive version.
 
 <h2>❗ How to run<a name="how-to"></a></h2>
 <h3>Prerequisites</h3>
