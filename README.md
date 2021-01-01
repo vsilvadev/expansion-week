@@ -22,7 +22,7 @@ Before starting, you will need to have the following tools installed on your mac
 </a>
 <br>
 <a href="https://classic.yarnpkg.com/en/docs/install/#windows-stable">
-<img src="https://img.shields.io/static/v1?label=Install&message=YARN.JS&color=2188b6&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Install&message=YARN&color=2188b6&style=for-the-badge"/>
 </a>
 
 
