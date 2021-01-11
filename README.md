@@ -17,10 +17,6 @@ Before starting, you will need to have the following tools installed on your mac
 <img src="https://img.shields.io/static/v1?label=Install&message=GIT&color=f14e32&style=for-the-badge"/>
 </a>
 <br>
-<a href="https://nodejs.org">
-<img src="https://img.shields.io/static/v1?label=Install&message=NODE.JS&color=43853d&style=for-the-badge"/>
-</a>
-<br>
 <a href="https://classic.yarnpkg.com/en/docs/install/#windows-stable">
 <img src="https://img.shields.io/static/v1?label=Install&message=YARN&color=2188b6&style=for-the-badge"/>
 </a>
@@ -49,8 +45,7 @@ $ yarn dev / $ npm run dev
 <h2>🛠 Technologies<a name="tech"></a></h2>
 The following tools were used in the construction of the project: <br><br>
 
-• Node.js <br>
-• Express <br>
+• TypeScript <br>
 • ReactJS <br>
 
 <h2>⭐ Author<a name="author"></a></h2>
