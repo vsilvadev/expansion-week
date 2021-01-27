@@ -45,7 +45,7 @@ $ yarn dev / $ npm run dev
 <h2>🛠 Technologies<a name="tech"></a></h2>
 The following tools were used in the construction of the project: <br><br>
 
-• TypeScript <br>
+• JavaScript <br>
 • ReactJS <br>
 
 <h2>⭐ Author<a name="author"></a></h2>
